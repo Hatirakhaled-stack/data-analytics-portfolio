@@ -1,0 +1,110 @@
+# New Product Performance Analytics Dashboard
+
+## 📊 Business Problem
+
+When new products are launched, business teams need to monitor their performance quickly to evaluate market acceptance, profitability, and inventory efficiency.
+
+This project was developed to track newly launched product performance using automated data integration and advanced Power BI analytics.
+
+---
+
+## 📂 Data Sources
+
+Data was extracted via API integrations from internal business systems including:
+
+- Product data
+- Order data
+- Inventory data
+
+All datasets were merged and transformed inside Power BI using Power Query.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI
+- Power Query (Data Transformation)
+- DAX (Advanced Business Calculations)
+- REST API Integration
+- Data Modeling
+
+---
+
+## ⚙ Data Engineering & Transformation
+
+### API Integration
+- Automated retrieval of product and order data
+- Consolidation of multiple data sources
+
+### Data Preparation
+- Merging product master data with order transactions
+- Data cleaning and transformation using Power Query
+- Creation of calculated tables and relationships
+
+---
+
+## 📐 Data Modeling
+
+A star schema data model was implemented including:
+
+- Product dimension
+- Orders fact table
+- Inventory data integration
+
+---
+
+## 📈 DAX Calculations
+
+Several business KPIs were developed using DAX including:
+
+- Total Net Revenue
+- Cost of Goods Sold (COGS)
+- Gross Margin
+- Gross Margin Percentage
+- Sales Volume
+- Inventory Quantity
+- Time-based product performance (30 / 60 / 90 day analysis)
+
+---
+
+## 📊 Dashboard Features
+
+The dashboard enables:
+
+✔ Monitoring performance of newly launched products  
+✔ Profitability tracking  
+✔ Sales volume analysis  
+✔ Inventory monitoring  
+✔ Time-based performance comparison  
+✔ Product filtering and drill-down analysis  
+
+---
+
+## 📷 Dashboard Preview
+
+(Add screenshots here)
+
+---
+
+## 💡 Key Insights
+
+The dashboard helps business stakeholders:
+
+- Identify top performing new products
+- Detect underperforming product launches early
+- Optimize product portfolio decisions
+- Support inventory planning
+- Improve pricing and marketing strategies
+
+---
+
+## 🧩 Architecture Overview
+
+API → Power Query → Data Model → DAX Calculations → Power BI Dashboard
+
+---
+
+## ⚠ Data Privacy
+
+All business data shown in this project has been anonymized.
+
