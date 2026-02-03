@@ -13,6 +13,19 @@ Customer segmentation and lifetime value forecasting using Python and BI tools.
 
 👉 [View Project](crm-customer-analytics)
 
+### New Product Performance Analytics Dashboard
+
+This project tracks newly launched product performance using automated data integration and Power BI analytics.
+
+👉 [View Project](new-product-performance-dashboard)
+
+### Api-integration
+
+This script retrieves product, order, and inventory data from shopify via REST API to feed the Power BI analytics dashboard.
+
+
+👉 [View Project](api-integration)
+
 ---
 
 ## 🛠 Skills
