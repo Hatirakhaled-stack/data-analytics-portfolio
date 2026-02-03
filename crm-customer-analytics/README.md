@@ -51,7 +51,7 @@ Data includes:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots here later)
+(https://github.com/Hatirakhaled-stack/data-analytics-portfolio/blob/main/crm-customer-analytics/CRM%20Customer%20Analytics%20%26%20CLV%20Prediction.png)
 
 ---
 
