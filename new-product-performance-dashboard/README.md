@@ -63,7 +63,7 @@ Data was merged and transformed inside Power BI using Power Query.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](New Product Performance Analytics Dashboard.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
