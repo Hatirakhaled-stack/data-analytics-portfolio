@@ -19,6 +19,7 @@ This script retrieves product, order, and inventory data from shopify via REST A
 - Python
 - Requests Library
 - JSON Processing
+- Power Bi M formula language code
 
 ---
 
